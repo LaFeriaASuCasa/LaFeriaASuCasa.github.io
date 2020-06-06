@@ -106,6 +106,9 @@ function generateTable (csvLines) {
         // If it's an empty line, ignore and go on
         if (csvLines[i] == "") continue;
 
+        // If the line is a comment, ignore and go on
+        if (csvLines[i][0] == ";") continue;
+
         // Generate a new row object
         var row = table.insertRow(-1);
         
