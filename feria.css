@@ -1,48 +1,54 @@
-/* This is a comment */
+@import url(https://fonts.googleapis.com/css2?family=Lobster&family=Nunito+Sans&display=swap);
 
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Nunito+Sans&display=swap');
-
-html, body {
-    margin: 0 !important;
-    padding: 0 !important;
-    top: 0 !important;
-    left: 0 !important;
-    background: rgb(255, 227, 205);
-    font-family: 'Nunito Sans', sans-serif;
+body,html {
+    margin: 0!important;
+    padding: 0!important;
+    top: 0!important;
+    left: 0!important;
+    background: #ffe3cd;
+    font-family: 'Nunito Sans',sans-serif;
 }
 
 #contents {
     padding: 1rem;
     margin: 0 auto;
     max-width: 900px;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
-.tabla {
-    text-align: center;
+#lista,#tab,#tabla-verduras,.table {
     width: 100%;
-    font-size: 1.2rem;
 }
 
-.table table, .tabla th, .tabla td {
-    /*border: 2px solid rgb(125, 218, 255);*/
+#tab {
+    margin-bottom: 2rem;
+}
+
+.table {
+    font-size: 1rem;
+}
+
+.tabla td,.tabla th,.table table {
     border-collapse: collapse;
-    /*padding: 5rem;*/
     margin: 1rem;
 }
 
-#tabla-verduras .sel-cell, #tabla-verduras .price-cell, #tabla-verduras .name-cell{
-    padding: 0.2rem;
-    background: rgb(206, 241, 255);
+.name-cell,.price-cell,.sel-cell {
+    height: 3rem;
+}
+
+#tabla-verduras .name-cell,#tabla-verduras .price-cell,#tabla-verduras .sel-cell {
+    padding: .2rem;
+    background: #cef1ff;
 }
 
 .table .header {
-    font-family: 'Lobster', cursive;
-    padding: 0.5rem 0 0.5rem 1.5rem;
-    margin: 0.5rem;
+    font-family: 'Lobster',cursive;
+    padding: .5rem 0 .5rem 1.5rem;
+    margin: .5rem;
     font-size: 2.5rem;
-    font-weight: bold;
-    background: rgb(163, 217, 238);
+    font-weight: 700;
+    background: #a3d9ee;
 }
 
 #tabla-verduras .name-cell {
@@ -50,12 +56,13 @@ html, body {
 }
 
 .cantidad {
-    /*background: rgb(232, 248, 255);*/
     text-align: right;
-    background: rgb(227, 247, 255);
-    border: none;
-    margin-right: 0.2rem;
+    background: #e3f7ff;
+    padding-right: .2rem;
+    border: 0;
+    margin-right: .2rem;
     width: 3rem;
+    height: 2.5rem;
 }
 
 .cell .unit {
@@ -67,20 +74,26 @@ html, body {
     height: 2rem;
 }
 
-#submit-but {
-    width: 100%;
+#comentarios,#submit-but {
     margin-top: 2rem;
+    width: 100%;
+}
+
+#submit-but {
     padding: 1rem;
     font-size: 2.5rem;
 }
 
 #info-contacto .contacto {
-    width: 70%;
+    width: 98%;
+}
+
+.left-beef {
+    text-align: left;
 }
 
 #comentarios {
-    margin-top: 2rem;
-    width: 100%;
+    margin: 0 auto;
     text-align: center;
 }
 

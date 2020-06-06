@@ -103,6 +103,9 @@ function generateTable (csvLines) {
 
     // Iterate over csv lines
     for (let i = 0; i < csvLines.length; i++) {
+        // If it's an empty line, ignore and go on
+        if (csvLines[i] == "") continue;
+
         // Generate a new row object
         var row = table.insertRow(-1);
         
