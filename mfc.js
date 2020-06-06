@@ -231,6 +231,6 @@ function confirmData () {
     body = body.concat(document.getElementById("nombre").value, nlseq);
     body = body.concat(document.getElementById("telefono").value, nlseq);
     body = body.concat(document.getElementById("direccion").value, nlseq);
-    var hrefString = "mailto:famellad@gmail.com?subject=".concat(subject, "&body=", body);
+    var hrefString = "mailto:suferiaalacasa@gmail.com?subject=".concat(subject, "&body=", body);
     window.location.href = hrefString;
 }
