@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prueba Mi Feria</title>
+    <link rel="stylesheet" href="feria.css" />
+    <!--meta name='viewport' content='user-scalable=0'-->
+    <meta name="viewport" content="width=device-width, height=device-height,  initial-scale=1.0, user-scalable=no;user-scalable=0;"/>
+    <script src="mfc.js"></script>
+    <script>
+        getCSV().then(
+            function (value) {
+                // This is executed if the CSV is properly fetched
+                // The contents of the file are held in value
+                var textLines = value.split("\n");
+                generateTable(textLines);
+            },
+            function (reason) {
+                console.error("Something wrong", reason);
+            });
+
+    </script>
+</head>
+<body>
+    <div id="contents">
+        <form id="lista">
+            <div id="tab"></div>
+            <div id="comentarios">
+                <div style="text-align: left;">Comentarios adicionales:</div>
+                <!--input class="large" id="text-comentarios" type="text"-->
+                <textarea rows="3" id="text-comentarios"></textarea>
+            </div>
+            <div id="info-contacto">
+                <table class="tabla">
+                    <tr>
+                        <td>
+                            Nombre:
+                        </td>
+                        <td>
+                            <input class="large contacto" id="nombre" type="text">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Direccion:
+                        </td>
+                        <td>
+                            <input class="large contacto" id="direccion" type="text">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Celular:
+                        </td>
+                        <td>
+                            <input class="large contacto" id="telefono" type="text">
+                        </td>
+                    </tr>
+                </table> 
+            </div>
+            <button id="submit-but" type="button" onclick="confirmData()">Revisar</button>
+        </form>
+    </div>
+</body>
+</html>
