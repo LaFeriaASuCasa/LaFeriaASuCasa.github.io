@@ -9,6 +9,8 @@ body,html {
     font-family: 'Nunito Sans',sans-serif;
 }
 
+table { border-collapse:collapse }
+
 #contents {
     padding: 1rem;
     margin: 0 auto;
@@ -24,12 +26,15 @@ body,html {
     margin-bottom: 2rem;
 }
 
+#tabla-verduras {
+    border: 2px solid #a3d9ee;
+}
+
 .table {
     font-size: 1rem;
 }
 
 .tabla td,.tabla th,.table table {
-    border-collapse: collapse;
     margin: 1rem;
 }
 
@@ -40,6 +45,7 @@ body,html {
 #tabla-verduras .name-cell,#tabla-verduras .price-cell,#tabla-verduras .sel-cell {
     padding: .2rem;
     background: #cef1ff;
+    border-bottom: 2px solid #a3d9ee;
 }
 
 .table .header {
