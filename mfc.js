@@ -217,7 +217,7 @@ function confirmData () {
             var un = listDict[keys[i]][1];
 
             // If it's measured in units, ignore, else, add the unit to the message
-            if (un == "U") tempList = tempList.concat("- ", document.getElementById(keys[i]).value, " ")
+            if (un == "U" || un == "u") tempList = tempList.concat("- ", document.getElementById(keys[i]).value, " ")
             else tempList = tempList.concat("- ", document.getElementById(keys[i]).value, " ", listDict[keys[i]][1], " de "); 
 
             tempList = tempList.concat(listDict[keys[i]][0], nlseq);
