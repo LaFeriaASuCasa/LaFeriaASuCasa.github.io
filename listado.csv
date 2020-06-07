@@ -53,8 +53,8 @@ Tunas,kg,2000
 Uva Blanca,kg,1500
 #Otros,,
 Aceitunas,kg,5000
-Aji de color,250 grs.,2000
-Ajo en polvo,250 grs.,2000
+Aji de color (250 grs.),grs.,2000
+Ajo en polvo ((250 grs.),grs.,2000
 Almendras (200 grs.),grs.,3000
 Canela,rama,1000
 Castañas,kg,2000
@@ -66,7 +66,7 @@ Maní con sal (200 grs.),grs.,1500
 Merkén (250 grs.),grs.,3000
 Menta (170 grs.),grs.,1000
 Nuez (200 grs.),grs.,2500
-Orégano (250 grs.),,3000
+Orégano (250 grs.),grs.,3000
 Pimienta (250 grs.),grs.,4000
 Piñón,kg,3500
 Super Blanco,u,215
