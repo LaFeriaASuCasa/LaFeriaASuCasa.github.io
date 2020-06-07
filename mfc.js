@@ -1,6 +1,10 @@
 var listDict = {};
 
-function generateID (name) {
+function generateID (lineElements) {
+    // Extract useful elements
+    var name = lineElements[0];
+    var unit = lineElements[1];
+
     // Strings to hold the final ID and original name
     var ID = "";
     var origName = name;
@@ -29,7 +33,7 @@ function generateID (name) {
     // Add to "dictionary"
     //listID[listID.length] = ID;
     //listName[listID.length - 1] = origName;
-    listDict[ID] = origName;
+    listDict[ID] = [origName, unit];
 
     return ID;
 }
@@ -75,7 +79,7 @@ function selectorCell (row, lineElements) {
     // Set selector as number and initialize at 0
     input.type = "number";
     input.placeholder = 0;
-    input.id = generateID(lineElements[0]);
+    input.id = generateID(lineElements);
     input.classList.add("cantidad");
     input.classList.add("large");
     input.min = "0";
@@ -210,7 +214,13 @@ function confirmData () {
         // Check wheter there is a value
         //console.log(document.getElementById(keys[i]).value);
         if (strUsed(document.getElementById(keys[i]).value)) {
-            tempList = tempList.concat("- ", document.getElementById(keys[i]).value, " ", listDict[keys[i]], nlseq);
+            var un = listDict[keys[i]][1];
+
+            // If it's measured in units, ignore, else, add the unit to the message
+            if (un == "U") tempList = tempList.concat("- ", document.getElementById(keys[i]).value, " ")
+            else tempList = tempList.concat("- ", document.getElementById(keys[i]).value, " ", listDict[keys[i]][1], " de "); 
+
+            tempList = tempList.concat(listDict[keys[i]][0], nlseq);
             nitems++;
         }
     }
