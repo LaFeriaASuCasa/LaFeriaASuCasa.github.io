@@ -6,7 +6,9 @@ body,html {
     top: 0!important;
     left: 0!important;
     background: #fff2e8;
+    background-image: url("assets/bg-tx.png");
     font-family: 'Nunito Sans',sans-serif;
+    text-shadow: 0.1rem 0.1rem 0.2rem rgba(0, 0, 0, 0.3);
 }
 
 table { border-collapse:collapse }
@@ -18,12 +20,38 @@ table { border-collapse:collapse }
     font-size: 1rem;
 }
 
+#contacto-luis h2 {
+    font-family: 'Lobster',cursive;
+    padding: 0 0 0 1.5rem;
+    margin: .5rem;
+    font-size: 2.0rem;
+    font-weight: 700;
+}
+
+#contacto-luis p {
+    padding: 0 0 .5rem 1.9rem;
+    margin: .5rem;
+}
+
+#contacto-luis {
+    margin-bottom: 2rem;
+}
+
+#contacto-luis a {
+    color: black;
+}
+
+#contacto-luis img {
+    max-width: 5rem;
+}
+
 #lista,#tab,#tabla-verduras,.table {
     width: 100%;
 }
 
 #tab {
     margin-bottom: 2rem;
+    box-shadow: 0.1rem 0.1rem 0.2rem rgba(0, 0, 0, 0.2);
 }
 
 #tabla-verduras {
@@ -44,7 +72,7 @@ table { border-collapse:collapse }
 
 #tabla-verduras .name-cell,#tabla-verduras .price-cell,#tabla-verduras .sel-cell {
     padding: .2rem;
-    background: #cef1ff;
+    background: #cef1ffd2;
     border-bottom: 2px solid #a3d9ee;
 }
 
