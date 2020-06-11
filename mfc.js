@@ -44,7 +44,7 @@ function addSeparator (value) {
 
     for (let i = value.length - 1; i >= 0; i--) {
         if (c == 3) {
-            sepValue = "." + sepValue;
+            sepValue = "," + sepValue;
             c = 0;
         }
         else c++;
@@ -233,7 +233,7 @@ function confirmData () {
     }
     else {
         // Opening
-        body = body.concat("Encargo de:" + nlseq);
+        body = body.concat("Pedido de:" + nlseq);
         body = body.concat(tempList);
     }
 
