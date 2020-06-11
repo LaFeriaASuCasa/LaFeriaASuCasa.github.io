@@ -191,7 +191,8 @@ function confirmData () {
     var d = new Date();
 
     // Assign the current date to the mail subject
-    var subject = "Pedido del ".concat(d.getDate(), " de ", d.getMonth(), " de ", d.getFullYear());
+    var subject = "Pedido de ".concat(document.getElementById("nombre").value, 
+                   " (", d.getDate(), " de ", d.getMonth(), " de ", d.getFullYear(), ")");
     
     // Determine line break sequence
     // It should be %0D%0A if on Linux (PC?)
