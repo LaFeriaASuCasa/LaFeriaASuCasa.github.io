@@ -118,6 +118,7 @@ table { border-collapse:collapse }
 
 #submit-but {
     padding: 1rem;
+    /*font-family: 'Lobster',cursive;*/
     font-size: 2.5rem;
 }
 
