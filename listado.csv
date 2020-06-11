@@ -6,7 +6,7 @@ Albahaca,pqte.,1000
 Alcachofa (3 u),pqte.,2000
 Apio,u,1200
 Brocoli,u,1400
-Bruselas,kg,1500
+Bruselas,kg,1800
 Cebolla blanca,u,250
 Cebolla morada (3 u),pqte.,1000
 Cebollín,pqte.,700
@@ -19,11 +19,11 @@ Coliflor,u,1400
 Espinaca,kg,2400
 Kale (170 grs),pqte.,1000
 Lechuga Costina,u,900
-Lechuga Escarola,u,900
+Lechuga Escarola,u,1000
 Lechuga Española,u,700
 Lechuga Morada,u,600
 Paltas Hass premium,kg,5500
-Paltas Hass Nueva,kg,4200
+Paltas Hass Nueva,kg,3800
 Papa (3 kg),kg,2000
 Pepino,u,700
 Perejil,pqte.,500
@@ -36,7 +36,7 @@ Tomates,kg,1200
 Tomates cherry,kg,4000
 Verduras surtidas,pqte.,500
 Zanahoria,kg,700
-Zapallo camote (700 grs app),corte,600
+Zapallo camote,kg,1000
 Zapallo italiano,u,400
 
 #Frutas,,
@@ -44,6 +44,7 @@ Clementina,kg,1400
 Frambuesa,kg,5600
 Frutillas,kg,2500
 Limones,kg,1000
+Mancaqui,kg,1400
 Mango,kg,3000
 Manzana Fuji,kg,1200
 Manzana Verde,kg,1200
@@ -51,6 +52,7 @@ Naranja de jugo,kg,1500
 Pera de agua,kg,1200
 Plátanos,kg,1200
 Tunas,kg,2000
+Tunas premium,kg,2600
 Uva Blanca,kg,1500
 
 #Otros,,
