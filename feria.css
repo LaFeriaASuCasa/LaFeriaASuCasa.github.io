@@ -24,12 +24,15 @@ table { border-collapse:collapse }
     color: #00000066;
 }
 
-#contacto-luis h2 {
+h2 {
     font-family: 'Lobster',cursive;
-    padding: 0 0 0 1.5rem;
     margin: .5rem;
     font-size: 2.0rem;
     font-weight: 700;
+}
+
+#contacto-luis h2 {
+    padding: 0 0 0 1.5rem;
 }
 
 #contacto-luis p {
@@ -41,7 +44,7 @@ table { border-collapse:collapse }
     margin-bottom: 2rem;
 }
 
-#contacto-luis a {
+a {
     color: black;
 }
 
@@ -112,14 +115,34 @@ table { border-collapse:collapse }
     height: 2rem;
 }
 
-#comentarios,#submit-but {
+#comentarios,#email-but,#whatsapp-but {
     width: 100%;
 }
 
-#submit-but {
+button, button:hover, button:active {
     padding: 1rem;
-    /*font-family: 'Lobster',cursive;*/
-    font-size: 2.5rem;
+    font-size: 1rem;
+    text-anchor: end;
+
+    height: 5rem;
+
+    background-color: rgb(245, 245, 245);
+    background-size: 2rem;
+    background-position: 50% 20%;
+    background-repeat: no-repeat;
+}
+
+button span {
+    position: relative;
+    top: 40%;
+}
+
+#email-but {
+    background-image: url("assets/mail.png");
+}
+
+#whatsapp-but {
+    background-image: url("assets/wsap.png");
 }
 
 #info-contacto .contacto {
@@ -139,4 +162,16 @@ table { border-collapse:collapse }
     width: 100%;
     height: 8rem;
     font-size: 1.5rem;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
 }

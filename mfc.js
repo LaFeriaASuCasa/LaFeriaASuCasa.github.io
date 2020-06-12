@@ -71,7 +71,7 @@ function selectorCell (row, lineElements) {
     input.classList.add("cantidad");
     input.classList.add("large");
     input.min = "0";
-    if (lineElements[1] == "kg" || lineElements[1] == "Kg") input.step = "0.1";
+    if (lineElements[1] == "kg" || lineElements[1] == "Kg") input.step = "0.01";
     else input.step = "1";
 
     // Write unit to span
@@ -145,7 +145,7 @@ function strUsed (testStr) {
     return false;
 }
 
-function confirmData () {
+function confirmData (method) {
     // Get the current day
     var d = new Date();
 
@@ -158,8 +158,14 @@ function confirmData () {
     // It should be <br> if on Android (Mobile?)
     var nlseq = "";
 
-    if (!mobileCheck()) nlseq = "%0D%0A"; // Not mobile
-    else nlseq = "<br>";                  // Mobile
+    if (method == "email") {
+        if (!mobileCheck()) nlseq = "%0D%0A"; // Not mobile
+        else nlseq = "<br>";                  // Mobile
+    }
+    else {
+        nlseq = "%0D%0A";
+    }
+
 
     // Init empty variable to hold the body
     var body = "";
@@ -188,7 +194,7 @@ function confirmData () {
     // If nothing was ordered...
     if (nitems == 0) {
         // TODO Do we want to return? Or should we allow empty orders?
-        alert("La lista esta vacia! (buscar alternativa sin tildes)");
+        alert("¡No hay productos seleccionados!");
     }
     else {
         // Opening
@@ -207,6 +213,19 @@ function confirmData () {
     body = body.concat(document.getElementById("nombre").value, nlseq);
     body = body.concat(document.getElementById("telefono").value, nlseq);
     body = body.concat(document.getElementById("direccion").value, nlseq);
+
+    if (method == "email") sendEmail(subject, body);
+    else sendWhatsapp(body);
+}
+
+function sendEmail (subject, body) {
     var hrefString = "mailto:suferiaalacasa@gmail.com?subject=".concat(subject, "&body=", body);
+    window.location.href = hrefString;
+}
+
+function sendWhatsapp (text) {
+    text = text.replace(" ", "%20");
+
+    var hrefString = "whatsapp://send?phone=+56984597639&text=".concat(text);
     window.location.href = hrefString;
 }
