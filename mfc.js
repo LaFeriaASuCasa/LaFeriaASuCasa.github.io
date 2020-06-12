@@ -71,7 +71,7 @@ function selectorCell (row, lineElements) {
     input.classList.add("cantidad");
     input.classList.add("large");
     input.min = "0";
-    if (lineElements[1] == "Kg") input.step = "0.1";
+    if (lineElements[1] == "kg" || lineElements[1] == "Kg") input.step = "0.1";
     else input.step = "1";
 
     // Write unit to span
