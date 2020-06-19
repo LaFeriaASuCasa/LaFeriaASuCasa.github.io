@@ -3,8 +3,9 @@ Achicoria,u,900
 Acelga,u,1000
 Ají verde (5 u),pqte.,700
 Albahaca,pqte.,1000
-Alcachofa (3 u),pqte.,2000
+Alcachofa,u,700
 Apio,u,1200
+Berenjenas,u,500
 Brocoli,u,1400
 Bruselas,kg,1800
 Cebolla blanca,u,250
@@ -17,27 +18,29 @@ Ciboulette,pqte.,500
 Cilantro,pqte.,500
 Coliflor,u,1400
 Espinaca,kg,2400
-Kale (170 grs),pqte.,1000
 Lechuga Costina,u,900
 Lechuga Escarola,u,1000
 Lechuga Española,u,700
 Lechuga Morada,u,600
-Paltas Hass premium,kg,5500
-Paltas Hass Nueva,kg,3800
-Papa (3 kg),kg,2000
+Paltas Hass Premium,kg,5500
+Paltas Hass Nueva,kg,4200
+Papa,kg,700
 Pepino,u,700
 Perejil,pqte.,500
 Pimentón amarillo,u,700
 Pimentón rojo,u,700
 Pimentón verde,u,700
 Puerro,u,1000
+Rabanitos,pqte.,900
+Repollo Blanco,u,1600
+Repollo Morado,u,1600
 Rúcula,pqte.,1000
 Tomates,kg,1200
 Tomates cherry,kg,4000
 Verduras surtidas,pqte.,500
 Zanahoria,kg,700
 Zapallo camote,kg,1000
-Zapallo italiano,u,400
+Zapallo italiano,u,500
 
 #Frutas,,
 Clementina,kg,1400
@@ -48,17 +51,18 @@ Mancaqui,kg,1400
 Mango,kg,3000
 Manzana Fuji,kg,1200
 Manzana Verde,kg,1200
-Naranja de jugo,kg,1500
-Pera de agua,kg,1200
+Membrillo,kg,1300
+Naranja de Jugo,kg,1500
+Pomelo,kg,1200
+Pera de Agua,kg,1200
 Plátanos,kg,1200
-Tunas,kg,2000
-Tunas premium,kg,2600
-Uva Blanca,kg,1500
+Tunas Premium,kg,2600
+Uva Blanca,kg,2000
 
 #Otros,,
 Aceitunas,kg,5000
-Aji de color (250 grs.),pqte.,2000
-Ajo en polvo ((250 grs.),pqte.,2000
+Ají de Color (250 grs.),pqte.,2000
+Ajo en Polvo ((250 grs.),pqte.,2000
 Almendras (200 grs.),pqte.,3000
 Canela,rama,1000
 Castañas,kg,2000
@@ -73,7 +77,17 @@ Nuez (200 grs.),pqte.,2500
 Orégano (250 grs.),pqte.,3000
 Pimienta (250 grs.),pqte.,4000
 Piñón,kg,3500
-Super Blanco,u,215
-Super Color,u,215
-Jumbo Blanco,u,250
-Jumbo Color,u,250
+Huevo Super Blanco,u,215
+Huevo Super Color,u,215
+Huevo Jumbo Blanco,u,250
+Huevo Jumbo Color,u,250
+
+#Artículos de Limpieza,,
+Detergente Plus Ropa, 5 lts,8000
+Detergente Ropa,5 lts,5500
+Limpiapisos,5 lts,6000
+Suavizante de Ropa,5 lts,6500
+Cloro Gel,5 lts,6500
+Detergente Multiuso,5 lts,6000
+Lavaloza,5 lts,6500
+Desengrasante,5lts,5500
