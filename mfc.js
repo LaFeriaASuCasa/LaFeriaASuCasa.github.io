@@ -207,7 +207,7 @@ function confirmData (method) {
     // Include additional comments
     if (strUsed(document.getElementById("text-comentarios").value)) {
         body = body.concat(nlseq + "Comentarios:" + nlseq);
-        body = body.concat(document.getElementById("text-comentarios").value, nlseq);
+        body = body.concat(document.getElementById("text-comentarios").value.replace("\n", nlseq), nlseq);
     }
 
     // Include contact info
