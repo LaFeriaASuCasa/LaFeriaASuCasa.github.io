@@ -1,9 +1,9 @@
 #Verduras,,
-Achicoria,u,900
 Acelga,u,1200
+Achicoria,u,900
 Ají verde (10 u),pqte.,1000
 Ajo Importado,u,300
-Ajo Chileno,u,600
+Ajo Chileno,u,500
 ;Albahaca,pqte.,1000
 Alcachofa,u,700
 Apio,u,1200
@@ -15,21 +15,21 @@ Cebolla blanca,u,250
 Cebolla morada,kg.,1200
 Cebollín,pqte.,700
 Champiñón,kg,7000
-Choclo americano,u,400
+Choclo americano (3 u),pqte.,2000
 ;Choclo humero,u,500
 Ciboulette,pqte.,300
-Cilantro,pqte.,500
+Cilantro,pqte.,300
 Coliflor,u,1400
-Espinaca,kg,2400
+Espinaca,kg,2000
 Lechuga Costina,u,1000
 Lechuga Escarola,u,1000
-Lechuga Española,u,700
+Lechuga Española,u,800
 Lechuga Morada,u,700
-Menta,170 grs.,1000
 ;Paltas Hass Premium,kg,5500
 Paltas Hass Nueva,kg,4200
 Papa,kg,700
-Papa Chilota,kg,1000
+Papa Camote,kg,2000
+;Papa Chilota,kg,1000
 Pepino,u,600
 Perejil,pqte.,500
 ;Pimentón amarillo,u,700
@@ -38,65 +38,70 @@ Pimentón verde,u,700
 Porotos Verdes,kg,2200
 Puerro,u,1000
 ;Rabanitos,pqte.,900
-Rábano,u,900
+Rábano,u,1000
 Repollo Blanco,u,1600
 Repollo Morado,u,1600
 Rúcula,pqte.,1000
 Tomates,kg,1200
 ;Tomates cherry,kg,4000
-Tomillo,pqte,1000
 Verduras surtidas,pqte.,500
 Zanahoria,kg,700
-Zapallo camote,kg,1400
-Zapallo italiano,u,500
+Zapallo Camote,kg,1500
+Zapallo italiano,u,600
 
 #Frutas,,
-Clementina,kg,1400
+Clementina,kg,1500
 ;Frambuesa,kg,5600
-Frutillas,kg,2500
-Limones,kg,1000
-Mancaqui,kg,1400
-Mango,kg,3000
+Frutillas,kg,3500
+Kiwi,kg,1200
+Limones,kg,800
+;Mancaqui,kg,1400
+Mango,kg,
 Manzana Fuji,kg,1200
 Manzana Pink Lady,kg,1200
 Manzana Richard,kg,1200
 Manzana Verde,kg,1200
 Membrillo,kg,1300
-Naranja de Jugo,kg,1400
+Naranja de Jugo,kg,1200
 Pera de Agua,kg,1200
 Piña,u,2000
 Plátanos,kg,1200
 Pomelo,kg,1200
-Tunas,kg,2600
+;Tunas,kg,2600
 ;Tunas Premium,kg,2600
-Uva Blanca,kg,2000
+;Uva Blanca,kg,2000
+Uva Rosada,kg,1800
 
-#Otros,,
+#Frutos Secos y Otros,,
 Aceitunas Negras (no amarga),400 grs,2000
 Aceitunas Café (sevillana),400 grs,2000
-Ají de Color,250 grs.,2000
-Ajo en Polvo,250 grs.,2000
-Almendras,200 grs.,3000
+Ají de Color,100 grs.,1000
+Ajo en Polvo,100 grs.,1000
+Almendras,200 grs.,2500
 Canela,rama,1000
-Castañas,kg,2000
-Cebollitas Perla,kg,4000
-Comino,250 grs.,2000
+;Castañas,kg,2000
+;Cebollitas Perla,kg,4000
+Comino,100 grs.,1000
 Cúrcuma,pqte.,1000
+Curri,100 grs.,1000
 Jengibre,kg,2500
-Maní sin sal,200 grs.,1500
 Maní con sal,200 grs.,1500
-Merkén,250 grs.,3000
-Nueces,200 grs.,2500
-Orégano,250 grs.,3000
-Pimienta,250 grs.,4000
-Piñón,kg,3500
-Huevo Super Blanco,u,200
-Huevo Super Color,u,200
+Maní sin sal,200 grs.,1500
+Menta,170 grs.,1000
+Merkén,100 grs.,1000
+Nueces,200 grs.,2000
+Orégano,100 grs.,1000
+Pimienta,100 grs.,1000
+;Piñón,kg,3500
+Romero,pqte.,1000
+Tomillo,pqte.,1000
+Huevo Super Blanco,u,215
+Huevo Super Color,u,215
 Huevo Jumbo Blanco,u,250
 Huevo Jumbo Color,u,250
 
 #Artículos de Limpieza,,
-Detergente Plus Ropa, 5 lts,8000
+Detergente Plus Ropa,5 lts,8000
 Detergente Ropa,5 lts,5500
 Limpiapisos,5 lts,6000
 Suavizante de Ropa,5 lts,6500
