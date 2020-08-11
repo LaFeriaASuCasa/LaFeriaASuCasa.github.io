@@ -1,3 +1,10 @@
+// Editar estas variables
+
+var CORREO   = "suferiaalacasa@gmail.com";
+var TELEFONO = "+56984597639";
+
+/*-------------------------------------------------------------------*/
+
 var listDict = {};
 var monthList = ["enero", "febrero", "marzo", "abril", "mayo", "junio",
                 "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
@@ -216,18 +223,6 @@ function confirmData (method) {
     body = body.concat(document.getElementById("telefono").value, nlseq);
     body = body.concat(document.getElementById("direccion").value, nlseq);
 
-    if (method == "email") sendEmail(subject, body);
-    else sendWhatsapp(body);
-}
-
-function sendEmail (subject, body) {
-    var hrefString = "mailto:suferiaalacasa@gmail.com?subject=".concat(subject, "&body=", body);
-    window.location.href = hrefString;
-}
-
-function sendWhatsapp (text) {
-    text = text.replace(" ", "%20");
-
-    var hrefString = "whatsapp://send?phone=+56984597639&text=".concat(text);
-    window.location.href = hrefString;
+    if (method == "email") sendEmail(CORREO, subject, body);
+    else sendWhatsapp(TELEFONO, body);
 }
