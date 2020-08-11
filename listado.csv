@@ -10,7 +10,7 @@ Apio,u,1200
 Berenjenas,u,500
 Betarraga (5 u),pqte,1000
 Brocoli,u,1400
-;Bruselas,kg,1800
+Bruselas,kg,1800
 Cebolla blanca,u,250
 Cebolla morada,u,250
 Cebollín,pqte.,700
@@ -20,6 +20,7 @@ Champiñón,kg,7200
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
 Coliflor,u,1400
+Espárragos,kg,4500
 Espinaca,kg,2000
 Lechuga Costina,u,1000
 Lechuga Escarola,u,1000
@@ -32,8 +33,8 @@ Papa Camote,kg,2000
 Pepino,u,600
 Perejil,pqte.,500
 ;Pimentón amarillo,u,700
-Pimentón rojo,u,700
-Pimentón verde,u,700
+Pimentón rojo,u,1000
+Pimentón verde,u,1000
 ;Porotos Verdes,kg,2200
 ;Puerro,u,1000
 ;Rabanitos,pqte.,900
@@ -44,7 +45,7 @@ Rúcula,pqte.,1000
 ;Tomates cherry,kg,4000
 Verduras surtidas,pqte.,500
 Zanahoria,kg,700
-Zapallo Camote,kg,1500
+Zapallo Camote,kg,1800
 Zapallo italiano,u,600
 
 #Frutas,,
@@ -63,7 +64,7 @@ Manzana Verde,kg,1200
 Naranja de Jugo,kg,1200
 Paltas Hass Nueva,kg,4200
 Pera de Agua,kg,1200
-;Piña,u,2000
+Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
 Tomates,kg,1200
@@ -77,7 +78,7 @@ Aceitunas Negras (no amarga),400 grs,2000
 Aceitunas Café (sevillana),400 grs,2000
 Almendras,100 grs.,1500
 Guagüitas,150 grs.,1500
-;Castañas,kg,2000
+Castañas,kg,2000
 ;Cebollitas Perla,kg,4000
 Maní con sal,200 grs.,1500
 Maní sin sal,200 grs.,1500
