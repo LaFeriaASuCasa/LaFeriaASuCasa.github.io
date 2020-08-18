@@ -10,12 +10,12 @@ Apio,u,1200
 Berenjenas,u,500
 Betarraga (5 u),pqte,1000
 Brocoli,u,1400
-Bruselas,kg,1800
+Bruselas,kg,2000
 Cebolla blanca,u,250
 Cebolla morada,u,250
 Cebollín,pqte.,700
 Champiñón,kg,7200
-;Choclo americano (3 u),pqte.,2000
+Choclo americano,u,850
 ;Choclo humero,u,500
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
@@ -36,7 +36,7 @@ Perejil,pqte.,500
 Pimentón rojo,u,1000
 Pimentón verde,u,1000
 ;Porotos Verdes,kg,2200
-;Puerro,u,1000
+Puerro,u,1000
 ;Rabanitos,pqte.,900
 Rábano,u,1000
 Repollo Blanco,u,1600
@@ -50,6 +50,7 @@ Zapallo italiano,u,600
 
 #Frutas,,
 Clementina,kg,1500
+Chirimoya,kg,4000
 ;Frambuesa,kg,5600
 ;Frutillas,kg,3500
 Kiwi,kg,1400
@@ -68,7 +69,7 @@ Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
 Tomates,kg,1200
-;Tunas,kg,2600
+Tunas,kg,3000
 ;Tunas Premium,kg,2600
 ;Uva Blanca,kg,2000
 ;Uva Rosada,kg,1800
