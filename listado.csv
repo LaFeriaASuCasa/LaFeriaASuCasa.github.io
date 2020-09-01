@@ -33,14 +33,14 @@ Papa Camote,kg,2000
 Pepino,u,600
 Perejil,pqte.,500
 ;Pimentón amarillo,u,700
-Pimentón rojo,u,1000
+Pimentón rojo,u,1400
 Pimentón verde,u,1000
 ;Porotos Verdes,kg,2200
 Puerro,u,1000
 ;Rabanitos,pqte.,900
 Rábano,u,1000
-Repollo Blanco,u,1600
-Repollo Morado,u,1600
+Repollo Blanco,u,1400
+Repollo Morado,u,1400
 Rúcula,pqte.,1000
 ;Tomates cherry,kg,4000
 Verduras surtidas,pqte.,500
@@ -63,7 +63,7 @@ Manzana Fuji,kg,1200
 Manzana Verde,kg,1200
 ;Membrillo,kg,1300
 Naranja de Jugo,kg,1200
-Paltas Hass Nueva,kg,4200
+Paltas Hass Nueva,kg,4500
 Pera de Agua,kg,1200
 Piña,u,2000
 Plátanos,kg,1200
@@ -75,6 +75,7 @@ Tunas,kg,3000
 Uva Rosada,kg,2500
 
 #Frutos Secos,,
+Aceitunas Amargas,400 grs,2500
 Aceitunas Negras (no amarga),400 grs,2000
 Aceitunas Café (sevillana),400 grs,2000
 Almendras,100 grs.,1500
@@ -89,6 +90,7 @@ Maní Confitado Vainilla,100 grs.,1500
 Mix Frutos Secos,100 grs.,1500
 Nueces,100 grs.,1500
 Pasas Rubias,200 grs.,1500
+Pickles,400 grs.,2000
 ;Piñón,kg,3500
 
 #Condimentos,,
