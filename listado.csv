@@ -35,7 +35,7 @@ Perejil,pqte.,500
 ;Pimentón amarillo,u,700
 Pimentón rojo,u,1400
 Pimentón verde,u,1000
-;Porotos Verdes,kg,2200
+Porotos Verdes,kg,2400
 Puerro,u,1000
 ;Rabanitos,pqte.,900
 Rábano,u,1000
@@ -63,18 +63,19 @@ Manzana Fuji,kg,1200
 Manzana Verde,kg,1200
 ;Membrillo,kg,1300
 Naranja de Jugo,kg,1200
+Palta Californiana,kg,3800
 Paltas Hass Nueva,kg,4500
 Pera de Agua,kg,1200
 Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
-Tomates Cherry,kg,3400
+Tomates Cherry,kg,5000
 Tomates Redondo,kg,1500
 Tomates Pomarola,kg,1600
 Tunas,kg,3000
 ;Tunas Premium,kg,2600
 ;Uva Blanca,kg,2000
-Uva Rosada,kg,2500
+;Uva Rosada,kg,2500
 
 #Frutos Secos,,
 Aceitunas Amargas,400 grs,2500
