@@ -15,12 +15,12 @@ Cebolla blanca (3 u),pqte,1000
 Cebolla morada (3 u),pqte,1000
 Cebollín,pqte.,700
 Champiñón,kg,7200
-Choclo americano,u,850
-;Choclo humero,u,500
+;Choclo americano,u,850
+Choclo humero,u,1000
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
 Coliflor,u,1400
-Espárragos,kg,5800
+Espárragos,kg,2400
 Espinaca,kg,2000
 Lechuga Costina,u,1000
 Lechuga Escarola,u,1000
@@ -50,7 +50,7 @@ Zapallo italiano,u,600
 
 #Frutas,,
 Clementina,kg,1600
-Chirimoya,kg,4000
+Chirimoya,kg,3200
 ;Frambuesa,kg,5600
 ;Frutillas,kg,3500
 Kiwi,kg,1600
@@ -62,15 +62,15 @@ Manzana Fuji,kg,1200
 ;Manzana Richard,kg,1200
 Manzana Verde,kg,1200
 ;Membrillo,kg,1300
-Naranja de Jugo,kg,1200
+Naranja de Jugo,kg,1400
 Palta Californiana,kg,3800
 Paltas Hass Nueva,kg,4500
 Pera de Agua,kg,1200
 Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
-Tomates Cherry,kg,5000
-Tomates Redondo,kg,1500
+Tomates Cherry,kg,4000
+Tomates Redondo,kg,1800
 Tomates Pomarola,kg,1600
 Tunas,kg,3000
 ;Tunas Premium,kg,2600
