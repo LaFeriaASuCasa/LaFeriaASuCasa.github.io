@@ -10,7 +10,7 @@ Apio,u,1200
 Berenjenas,u,500
 Betarraga (5 u),pqte,1000
 Brocoli,u,1400
-Bruselas,kg,2000
+;Bruselas,kg,2000
 Cebolla blanca (3 u),pqte,1000
 Cebolla morada (3 u),pqte,1000
 Cebollín,pqte.,700
@@ -20,10 +20,10 @@ Choclo humero,u,1000
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
 Coliflor,u,1400
-Espárragos,kg,2400
-Espinaca,kg,2000
-Lechuga Costina,u,1000
-Lechuga Escarola,u,1000
+Espárragos,kg,1800
+Espinaca,kg,1400
+Lechuga Costina,u,800
+Lechuga Escarola,u,800
 Lechuga Española,u,700
 Lechuga Morada,u,700
 ;Paltas Hass Premium,kg,5500
@@ -46,14 +46,14 @@ Rúcula,pqte.,1000
 Verduras surtidas,pqte.,500
 Zanahoria,kg,700
 Zapallo Camote,kg,2000
-Zapallo italiano,u,600
+Zapallo italiano,u,400
 
 #Frutas,,
 Clementina,kg,1600
-Chirimoya,kg,3200
+Chirimoya,kg,3000
 ;Frambuesa,kg,5600
-;Frutillas,kg,3500
-Kiwi,kg,1600
+Frutillas,kg,1500
+;Kiwi,kg,1600
 Limones,kg,800
 ;Mancaqui,kg,1400
 ;Mango,kg,
@@ -62,7 +62,7 @@ Manzana Fuji,kg,1200
 ;Manzana Richard,kg,1200
 Manzana Verde,kg,1200
 ;Membrillo,kg,1300
-Naranja de Jugo,kg,1400
+Naranja de Jugo,kg,1200
 Palta Californiana,kg,3800
 Paltas Hass Nueva,kg,4500
 Pera de Agua,kg,1200
@@ -70,9 +70,9 @@ Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
 Tomates Cherry,kg,4000
-Tomates Redondo,kg,1800
-Tomates Pomarola,kg,1600
-Tunas,kg,3000
+Tomates Redondo,kg,1600
+;Tomates Pomarola,kg,1600
+;Tunas,kg,3000
 ;Tunas Premium,kg,2600
 ;Uva Blanca,kg,2000
 ;Uva Rosada,kg,2500
@@ -83,7 +83,7 @@ Aceitunas Negras (no amarga),400 grs,2000
 Aceitunas Café (sevillana),400 grs,2000
 Almendras,100 grs.,1500
 Guagüitas,150 grs.,1500
-Castañas,kg,2000
+;Castañas,kg,2000
 ;Cebollitas Perla,kg,4000
 Maní con sal,200 grs.,1500
 Maní sin sal,200 grs.,1500
