@@ -15,12 +15,12 @@ Cebolla blanca (3 u),pqte,1000
 Cebolla morada (3 u),pqte,1000
 Cebollín,pqte.,700
 Champiñón,kg,7200
-;Choclo americano,u,850
+Choclo americano,u,600
 Choclo humero,u,1000
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
 Coliflor,u,1400
-Espárragos,kg,1800
+Espárragos,kg,1500
 Espinaca,kg,1400
 Lechuga Costina,u,800
 Lechuga Escarola,u,800
@@ -49,8 +49,12 @@ Zapallo Camote,kg,2000
 Zapallo italiano,u,400
 
 #Frutas,,
+Cerezas,kg,2800
 Clementina,kg,1600
-Chirimoya,kg,3000
+Chirimoya,kg,2600
+Damascos,kg,2600
+Duraznos Blanquillo,kg,2600
+Duraznos Pelados,kg,2600
 ;Frambuesa,kg,5600
 Frutillas,kg,1500
 ;Kiwi,kg,1600
