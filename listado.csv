@@ -15,12 +15,12 @@ Cebolla blanca (3 u),pqte,1000
 Cebolla morada (3 u),pqte,1000
 Cebollín,pqte.,700
 Champiñón,kg,7200
-Choclo americano 83 u),pqte,1000
-Choclo humero,u,650
+Choclo americano,u,500
+Choclo humero,u,500
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
 Coliflor,u,1400
-Espárragos,kg,1500
+Espárragos,kg,1800
 Espinaca,kg,1400
 Lechuga Costina,u,800
 Lechuga Escarola,u,800
@@ -30,12 +30,13 @@ Lechuga Morada,u,700
 Papa,kg,700
 Papa Camote,kg,2000
 ;Papa Chilota,kg,1000
-Pepino,u,600
+Pepino,u,300
 Perejil,pqte.,500
 ;Pimentón amarillo,u,700
-Pimentón rojo,u,1400
-Pimentón verde,u,1000
-Porotos Verdes,kg,2400
+Pimentón rojo,u,800
+Pimentón verde,u,800
+Porotos Granados,kg, 2600
+Porotos Verdes,kg,2000
 Puerro,u,1000
 ;Rabanitos,pqte.,900
 Rábano,u,1000
@@ -46,11 +47,12 @@ Rúcula,pqte.,1000
 Verduras surtidas,pqte.,500
 Zanahoria,kg,700
 Zapallo Camote,kg,2000
-Zapallo italiano,u,400
+Zapallo italiano,u,300
 
 #Frutas,,
 Arándanos,kg,3000
-Cerezas,kg,2800
+Cerezas Corazón de Paloma,kg,2600
+Cerezas Rojas,kg,2400
 Clementina,kg,1200
 Chirimoya,kg,2600
 Damascos,kg,2600
@@ -58,7 +60,7 @@ Duraznos Blanquillo,kg,2000
 Duraznos Nectarín,kg,2000
 Duraznos Plátano,kg,2000
 ;Frambuesa,kg,5600
-Frutillas,kg,1500
+Frutillas,kg,2000
 ;Kiwi,kg,1600
 Limones,kg,800
 ;Mancaqui,kg,1400
@@ -76,7 +78,8 @@ Pera de Agua,kg,1200
 Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
-Tomates Cherry,kg,4000
+Sandía,u,4000
+Tomates Cherry,kg,2400
 Tomates Redondo,kg,1000
 ;Tomates Pomarola,kg,1600
 ;Tunas,kg,3000
@@ -126,5 +129,5 @@ Semillas de Zapallo,100 grs.,1500
 Sésamo,500 grs.,2500
 Huevo Super Blanco,u,215
 Huevo Super Color,u,215
-Huevo Jumbo Blanco,u,250
-Huevo Jumbo Color,u,250
+Huevo Jumbo Blanco,u,165
+Huevo Jumbo Color,u,165
