@@ -16,11 +16,11 @@ Cebolla morada (3 u),pqte,1000
 Cebollín,pqte.,700
 Champiñón,kg,7200
 Choclo americano,u,500
-Choclo humero,u,500
+Choclo humero,u,700
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
 Coliflor,u,1400
-Espárragos,kg,1800
+Espárragos,kg,2000
 Espinaca,kg,1400
 Lechuga Costina,u,800
 Lechuga Escarola,u,800
@@ -36,7 +36,7 @@ Perejil,pqte.,500
 Pimentón rojo,u,800
 Pimentón verde,u,800
 Porotos Granados,kg, 2600
-Porotos Verdes,kg,2000
+Porotos Verdes,kg,1500
 Puerro,u,1000
 ;Rabanitos,pqte.,900
 Rábano,u,1000
@@ -59,7 +59,7 @@ Damascos,kg,2500
 Duraznos Blanquillo,kg,2000
 Duraznos Nectarín,kg,2000
 Duraznos Plátano,kg,2000
-;Frambuesa,kg,5600
+Frambuesa,kg,4000
 Frutillas,kg,2000
 ;Kiwi,kg,1600
 Limones,kg,800
@@ -70,17 +70,18 @@ Manzana Fuji,kg,1600
 ;Manzana Richard,kg,1200
 Manzana Verde,kg,1400
 Melón Calameño,u,1000
-Melón Tuna,u,1000
+Melón Tuna,u,1200
+Mora,kg,3000
 ;Membrillo,kg,1300
 Naranja de Jugo,kg,1400
 Níspero,kg,2600
 Palta Californiana,kg,3800
-Paltas Hass Nueva,kg,4500
+Paltas Hass,kg,5000
 Pera de Agua,kg,1600
 Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
-Sandía,u,6000
+Sandía,u,4000
 Tomates Cherry,kg,3000
 Tomates Redondo,kg,1000
 ;Tomates Pomarola,kg,1600
