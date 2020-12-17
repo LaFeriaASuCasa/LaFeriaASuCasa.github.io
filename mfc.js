@@ -1,4 +1,6 @@
 var listDict = {};
+var monthList = ["enero", "febrero", "marzo", "abril", "mayo", "junio",
+                "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
 
 function generateID (lineElements) {
     // Extract useful elements
@@ -151,7 +153,7 @@ function confirmData (method) {
 
     // Assign the current date to the mail subject
     var subject = "Pedido de ".concat(document.getElementById("nombre").value, 
-                   " (", d.getDate(), " de ", d.getMonth(), " de ", d.getFullYear(), ")");
+                   " (", d.getDate(), " de ", monthList[d.getMonth()], " de ", d.getFullYear(), ")");
     
     // Determine line break sequence
     // It should be %0D%0A if on Linux (PC?)
