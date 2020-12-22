@@ -9,7 +9,7 @@ Alcachofa,u,800
 Apio,u,1200
 Berenjenas,u,500
 Betarraga (5 u),pqte,1000
-Brocoli,u,1400
+Brocoli,u,1800
 ;Bruselas,kg,2000
 Cebolla blanca (3 u),pqte,1000
 Cebolla morada (3 u),pqte,1000
@@ -20,7 +20,7 @@ Choclo humero,u,700
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
 Coliflor,u,1400
-Espárragos,kg,2000
+;Espárragos,kg,2000
 Espinaca,kg,1400
 Lechuga Costina,u,800
 Lechuga Escarola,u,800
@@ -28,33 +28,33 @@ Lechuga Española,u,700
 Lechuga Morada,u,700
 ;Paltas Hass Premium,kg,5500
 Papa,kg,700
-Papa Camote,kg,2000
+;Papa Camote,kg,2000
 ;Papa Chilota,kg,1000
-Pepino,u,300
+Pepino,u,400
 Perejil,pqte.,500
 ;Pimentón amarillo,u,700
 Pimentón rojo,u,800
 Pimentón verde,u,800
 Porotos Granados,kg, 2600
 Porotos Verdes,kg,1500
-Puerro,u,1000
+;Puerro,u,1000
 ;Rabanitos,pqte.,900
 Rábano,u,1000
-Repollo Blanco,u,1400
-Repollo Morado,u,1400
+Repollo Blanco,u,2000
+Repollo Morado,u,2000
 Rúcula,pqte.,1000
 ;Tomates cherry,kg,4000
 Verduras surtidas,pqte.,500
 Zanahoria,kg,700
 Zapallo Camote,kg,2000
-Zapallo italiano,u,300
+Zapallo italiano,u,400
 
 #Frutas,,
-Arándanos,kg,3000
+Arándanos (350grs),pqte.,1000
 Cerezas Corazón de Paloma,kg,2600
 Cerezas Rojas,kg,2400
 Clementina,kg,1200
-Chirimoya,kg,2600
+;Chirimoya,kg,2600
 Damascos,kg,2500
 Duraznos Blanquillo,kg,2000
 Duraznos Nectarín,kg,2000
@@ -62,28 +62,28 @@ Duraznos Plátano,kg,2000
 Frambuesa,kg,4000
 Frutillas,kg,2000
 ;Kiwi,kg,1600
-Limones,kg,800
+Limones,kg,1200
 ;Mancaqui,kg,1400
 ;Mango,kg,
 Manzana Fuji,kg,1600
 ;Manzana Pink Lady,kg,1200
 ;Manzana Richard,kg,1200
 Manzana Verde,kg,1400
-Melón Calameño,u,1000
+Melón Calameño,u,1200
 Melón Tuna,u,1200
 Mora,kg,3000
 ;Membrillo,kg,1300
 Naranja de Jugo,kg,1400
 Níspero,kg,2600
-Palta Californiana,kg,3800
-Paltas Hass,kg,5000
+Palta Californiana,kg,4900
+Paltas Hass,kg,5400
 Pera de Agua,kg,1600
 Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
 Sandía,u,4000
 Tomates Cherry,kg,3000
-Tomates Redondo,kg,1000
+Tomates Redondo,kg,1600
 ;Tomates Pomarola,kg,1600
 ;Tunas,kg,3000
 ;Tunas Premium,kg,2600
