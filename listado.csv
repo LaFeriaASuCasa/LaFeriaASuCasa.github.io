@@ -6,17 +6,17 @@ Ajo,u,300
 ;Ajo Chileno,u,500
 ;Albahaca,pqte.,1000
 ;Alcachofa,u,800
-Apio,u,1200
+Apio,u,1500
 Berenjenas,u,500
 Betarraga (5 u),pqte,1000
 Brocoli,u,1800
 ;Bruselas,kg,2000
-Cebolla blanca (3 u),pqte,1000
-Cebolla morada (3 u),pqte,1000
+Cebolla blanca (4 u),pqte,1000
+Cebolla morada (4 u),pqte,1000
 Cebollín,pqte.,700
 Champiñón,kg,7200
 Choclo americano,u,500
-Choclo humero,u,700
+Choclo humero,u,600
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
 Coliflor,u,1400
@@ -35,8 +35,8 @@ Perejil,pqte.,500
 ;Pimentón amarillo,u,700
 Pimentón rojo,u,800
 Pimentón verde,u,800
-Porotos Granados,kg, 2600
-Porotos Verdes,kg,1500
+Porotos Granados,kg, 1800
+Porotos Verdes,kg,1800
 ;Puerro,u,1000
 ;Rabanitos,pqte.,900
 Rábano,u,1000
@@ -46,25 +46,26 @@ Rúcula,pqte.,1000
 ;Tomates cherry,kg,4000
 Verduras surtidas,pqte.,500
 Zanahoria,kg,700
-Zapallo Camote,kg,2000
+Zapallo Camote,kg,1500
 Zapallo italiano,u,400
 
 #Frutas,,
 Arándanos (350grs),pqte.,1000
-Cerezas Corazón de Paloma,kg,2600
-Cerezas Rojas,kg,2400
+Cerezas Corazón de Paloma,kg,2000
+Cerezas Rojas,kg,2000
 Clementina,kg,1200
 ;Chirimoya,kg,2600
 Damascos,kg,2500
 Duraznos Blanquillo,kg,2000
 Duraznos Nectarín,kg,2000
 Duraznos Plátano,kg,2000
-Frambuesa,kg,4000
+Frambuesa,kg,4400
 Frutillas,kg,2000
 ;Kiwi,kg,1600
-Limones,kg,1200
+Limones,kg,1400
+Limón Sutil,kg,2000
 ;Mancaqui,kg,1400
-;Mango,kg,
+Mango,kg,2500
 Manzana Fuji,kg,1600
 ;Manzana Pink Lady,kg,1200
 ;Manzana Richard,kg,1200
@@ -82,7 +83,7 @@ Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
 Sandía,u,4000
-Tomates Cherry,kg,3000
+Tomates Cherry,kg,4000
 Tomates Redondo,kg,1600
 ;Tomates Pomarola,kg,1600
 ;Tunas,kg,3000
