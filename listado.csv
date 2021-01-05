@@ -1,7 +1,7 @@
 #Verduras,,
 Acelga,u,1200
 ;Achicoria,u,900
-Ají verde,u,250
+Ají verde,u,200
 Ajo,u,300
 ;Ajo Chileno,u,500
 ;Albahaca,pqte.,1000
@@ -13,13 +13,13 @@ Brocoli,u,1800
 ;Bruselas,kg,2000
 Cebolla blanca (4 u),pqte,1000
 Cebolla morada (4 u),pqte,1000
-Cebollín,pqte.,700
+Cebollín,pqte.,600
 Champiñón,kg,7200
 Choclo americano,u,500
 Choclo humero,u,600
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
-Coliflor,u,1400
+Coliflor,u,1800
 ;Espárragos,kg,2000
 Espinaca,kg,1400
 Lechuga Costina,u,800
@@ -35,8 +35,8 @@ Perejil,pqte.,500
 ;Pimentón amarillo,u,700
 Pimentón rojo,u,800
 Pimentón verde,u,800
-Porotos Granados,kg, 1800
-Porotos Verdes,kg,1800
+Porotos Granados,kg, 2000
+Porotos Verdes,kg,2000
 ;Puerro,u,1000
 ;Rabanitos,pqte.,900
 Rábano,u,1000
@@ -45,12 +45,13 @@ Repollo Morado,u,2000
 Rúcula,pqte.,1000
 ;Tomates cherry,kg,4000
 Verduras surtidas,pqte.,500
-Zanahoria,kg,700
+Zanahoria,kg,850
 Zapallo Camote,kg,1500
 Zapallo italiano,u,400
 
 #Frutas,,
 Arándanos (350grs),pqte.,1000
+Brevas,kg,2400
 Cerezas Corazón de Paloma,kg,2000
 Cerezas Rojas,kg,2000
 Clementina,kg,1200
@@ -62,10 +63,10 @@ Duraznos Plátano,kg,2000
 Frambuesa,kg,4400
 Frutillas,kg,2000
 ;Kiwi,kg,1600
-Limones,kg,1400
+Limones,kg,1800
 Limón Sutil,kg,2000
 ;Mancaqui,kg,1400
-Mango,kg,2500
+Mango,kg,2400
 Manzana Fuji,kg,1600
 ;Manzana Pink Lady,kg,1200
 ;Manzana Richard,kg,1200
@@ -76,8 +77,7 @@ Mora,kg,3000
 ;Membrillo,kg,1300
 Naranja de Jugo,kg,1400
 Níspero,kg,2600
-Palta Californiana,kg,4900
-Paltas Hass,kg,5400
+Paltas Hass,kg,5800
 Pera de Agua,kg,1600
 Piña,u,2000
 Plátanos,kg,1200
