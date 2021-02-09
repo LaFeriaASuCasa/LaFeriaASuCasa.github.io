@@ -50,12 +50,12 @@ Zapallo Camote,kg,1500
 Zapallo italiano,u,400
 
 #Frutas,,
-Arándanos (350grs),pqte.,1000
+Arándanos,kg,2500
 ;Brevas,kg,2400
 ;Cerezas Corazón de Paloma,kg,2000
 Cerezas Rojas,kg,1600
-Ciruela,kg,1000
-Clementina,kg,1200
+Ciruela,kg,1200
+;Clementina,kg,1200
 ;Chirimoya,kg,2600
 ;Damascos,kg,2500
 Duraznos Blanquillo,kg,2000
@@ -63,6 +63,7 @@ Duraznos Nectarín,kg,2000
 Duraznos Plátano,kg,2000
 Frambuesa,kg,4400
 Frutillas,kg,2000
+Granadas,kg,2500
 ;Kiwi,kg,1600
 Limones,kg,1800
 Limón Sutil,kg,2000
@@ -71,13 +72,14 @@ Mango,kg,2400
 ;Manzana Fuji,kg,1600
 ;Manzana Pink Lady,kg,1200
 ;Manzana Richard,kg,1200
-Manzana Verde,kg,1600
+Manzana Roya,kg,1600
+;Manzana Verde,kg,1600
 Melón Calameño,u,1200
 Melón Tuna,u,1200
 Mora,kg,3000
 ;Membrillo,kg,1300
 Naranja de Jugo,kg,1800
-Níspero,kg,2600
+;Níspero,kg,2600
 Paltas Hass,kg,5800
 Pera de Agua,kg,1600
 Piña,u,2000
@@ -86,8 +88,8 @@ Plátanos,kg,1200
 Sandía,u,4000
 Tomates Cherry,kg,3000
 Tomates Redondo,kg,1000
-Tomates Pomarola,kg,1400
-;Tunas,kg,3000
+;Tomates Pomarola,kg,1400
+Tunas,kg,2000
 ;Tunas Premium,kg,2600
 Uva Blanca,kg,2000
 ;Uva Rosada,kg,2500
