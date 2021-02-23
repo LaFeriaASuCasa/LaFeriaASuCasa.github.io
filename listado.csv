@@ -1,5 +1,5 @@
 #Verduras,,
-Acelga,u,1200
+;Acelga,u,1200
 ;Achicoria,u,900
 Ají verde,u,200
 Ajo,u,300
@@ -9,20 +9,20 @@ Ajo,u,300
 ;Apio,u,1500
 Berenjenas,u,500
 Betarraga (5 u),pqte,1000
-Brocoli,u,1800
+Brocoli,u,1500
 ;Bruselas,kg,2000
-Cebolla blanca (4 u),pqte,1000
+Cebolla blanca (5 u),pqte,1000
 Cebolla morada (4 u),pqte,1000
 Cebollín,pqte.,600
 Champiñón,kg,7200
-Choclo americano,u,500
-Choclo humero,u,600
+Choclo americano,u,350
+Choclo humero,u,500
 Ciboulette,pqte.,300
 Cilantro,pqte.,500
-Coliflor,u,1800
+Coliflor,u,1500
 ;Espárragos,kg,2000
-Espinaca,kg,1400
-Lechuga Costina,u,800
+Espinaca,kg,1600
+;Lechuga Costina,u,800
 Lechuga Escarola,u,800
 Lechuga Española,u,700
 Lechuga Morada,u,700
@@ -33,27 +33,27 @@ Papa,kg,700
 Pepino,u,400
 Perejil,pqte.,500
 ;Pimentón amarillo,u,700
-Pimentón rojo,u,800
-Pimentón verde,u,800
+Pimentón rojo,u,700
+Pimentón verde,u,700
 Porotos Granados,kg, 2000
 Porotos Verdes,kg,1500
 ;Puerro,u,1000
 ;Rabanitos,pqte.,900
 Rábano,u,1000
-Repollo Blanco,u,2000
+Repollo Blanco,u,1500
 Repollo Morado,u,2000
 Rúcula,pqte.,1000
 ;Tomates cherry,kg,4000
 Verduras surtidas,pqte.,500
 Zanahoria,kg,850
-Zapallo Camote,kg,1500
+Zapallo Camote,kg,1200
 Zapallo italiano,u,400
 
 #Frutas,,
 Arándanos,kg,2500
 ;Brevas,kg,2400
 ;Cerezas Corazón de Paloma,kg,2000
-Cerezas Rojas,kg,1600
+;Cerezas Rojas,kg,1600
 Ciruela,kg,1200
 ;Clementina,kg,1200
 ;Chirimoya,kg,2600
@@ -62,8 +62,8 @@ Duraznos Blanquillo,kg,2000
 Duraznos Nectarín,kg,2000
 Duraznos Plátano,kg,2000
 Frambuesa,kg,4400
-Frutillas,kg,2000
-Granadas,kg,2500
+Frutillas,kg,1800
+;Granadas,kg,2500
 ;Kiwi,kg,1600
 Limones,kg,1800
 Limón Sutil,kg,2000
@@ -80,19 +80,19 @@ Mora,kg,3000
 ;Membrillo,kg,1300
 Naranja de Jugo,kg,1800
 ;Níspero,kg,2600
-Paltas Hass,kg,5800
+Paltas Hass,kg,3800
 Pera de Agua,kg,1600
 Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
 Sandía,u,4000
-Tomates Cherry,kg,3000
+Tomates Cherry,kg,2500
 Tomates Redondo,kg,1000
 ;Tomates Pomarola,kg,1400
 Tunas,kg,2000
 ;Tunas Premium,kg,2600
-Uva Blanca,kg,2000
-;Uva Rosada,kg,2500
+Uva Blanca,kg,1500
+Uva Rosada,kg,1500
 
 #Frutos Secos,,
 Aceitunas Amargas,400 grs,2500
@@ -134,7 +134,7 @@ Quinoa,500 grs.,2500
 Semillas de Maravilla,100 grs.,1500
 Semillas de Zapallo,100 grs.,1500
 Sésamo,500 grs.,2500
-Huevo Super Blanco,u,215
-Huevo Super Color,u,215
+Huevo Super Blanco,u,220
+Huevo Super Color,u,220
 Huevo Jumbo Blanco,u,165
 Huevo Jumbo Color,u,165
