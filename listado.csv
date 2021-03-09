@@ -33,8 +33,8 @@ Papa,kg,700
 Pepino,u,400
 Perejil,pqte.,500
 ;Pimentón amarillo,u,700
-Pimentón rojo,u,700
-Pimentón verde,u,700
+Pimentón rojo,u,600
+Pimentón verde,u,600
 Porotos Granados,kg, 1800
 Porotos Verdes,kg,1500
 ;Puerro,u,1000
@@ -58,38 +58,38 @@ Ciruela,kg,1200
 ;Clementina,kg,1200
 ;Chirimoya,kg,2600
 ;Damascos,kg,2500
-Duraznos Blanquillo,kg,2000
-Duraznos Nectarín,kg,2000
-Duraznos Plátano,kg,2000
+;Duraznos Blanquillo,kg,2000
+Duraznos Nectarín,kg,1500
+Duraznos Plátano,kg,1500
 Frambuesa,kg,4400
 Frutillas,kg,1800
-;Granadas,kg,2500
-;Kiwi,kg,1600
-Limones,kg,1800
+Granadas,kg,1200
+Kiwi,kg,1800
+Limones,kg,1600
 Limón Sutil,kg,2000
 ;Mancaqui,kg,1400
-Mango,kg,2400
-;Manzana Fuji,kg,1600
+Mango,kg,2500
+Manzana Fuji,kg,1500
 ;Manzana Pink Lady,kg,1200
 ;Manzana Richard,kg,1200
-Manzana Roya,kg,1600
-;Manzana Verde,kg,1600
-Melón Calameño,u,1200
-Melón Tuna,u,1200
+Manzana Royal,kg,1600
+Manzana Verde,kg,1500
+;Melón Calameño,u,1200
+;Melón Tuna,u,1200
 Mora,kg,3000
 ;Membrillo,kg,1300
-Naranja de Jugo,kg,1800
+Naranja de Jugo,kg,2000
 ;Níspero,kg,2600
 Paltas Hass,kg,5800
 Pera de Agua,kg,1600
 Piña,u,2000
 Plátanos,kg,1200
 ;Pomelo,kg,1200
-Sandía,u,2500
+;Sandía,u,2500
 Tomates Cherry,kg,2500
 Tomates Redondo,kg,1200
 ;Tomates Pomarola,kg,1400
-Tunas,kg,2000
+Tunas,kg,1800
 ;Tunas Premium,kg,2600
 Uva Blanca,kg,1500
 Uva Rosada,kg,1500
