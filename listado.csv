@@ -14,7 +14,7 @@ Brocoli,u,1500
 Cebolla blanca (5 u),pqte,1000
 Cebolla morada (4 u),pqte,1000
 Cebollín,pqte.,600
-Champiñón,kg,7200
+Champiñón,kg,6400
 Choclo americano,u,350
 Choclo humero,u,400
 Ciboulette,pqte.,300
@@ -33,8 +33,8 @@ Papa,kg,700
 Pepino,u,400
 Perejil,pqte.,500
 ;Pimentón amarillo,u,700
-Pimentón rojo,u,600
-Pimentón verde,u,600
+Pimentón rojo,u,500
+Pimentón verde,u,500
 Porotos Granados,kg, 1800
 Porotos Verdes,kg,1500
 ;Puerro,u,1000
@@ -43,7 +43,7 @@ Rábano,u,1000
 Repollo Blanco,u,1500
 Repollo Morado,u,2000
 Rúcula,pqte.,1000
-;Tomates cherry,kg,4000
+Tomates cherry,kg,3000
 Verduras surtidas,pqte.,500
 Zanahoria,kg,850
 Zapallo Camote,kg,1200
@@ -59,8 +59,8 @@ Ciruela,kg,1200
 ;Chirimoya,kg,2600
 ;Damascos,kg,2500
 ;Duraznos Blanquillo,kg,2000
-Duraznos Nectarín,kg,1500
-Duraznos Plátano,kg,1500
+Duraznos Nectarín,kg,1800
+Duraznos Plátano,kg,1800
 Frambuesa,kg,4400
 Frutillas,kg,1800
 Granadas,kg,1200
@@ -84,7 +84,7 @@ Paltas Hass,kg,5800
 Pera de Agua,kg,1600
 Piña,u,2000
 Plátanos,kg,1200
-;Pomelo,kg,1200
+Pomelo,kg,1600
 ;Sandía,u,2500
 Tomates Cherry,kg,2500
 Tomates Redondo,kg,1200
